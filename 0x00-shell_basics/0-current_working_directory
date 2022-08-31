@@ -1,1 +1,4 @@
 /root/alx-system_engineering-develops/0x00-shell_basics
+
+#!/bin/bash
+echo '0-current_working_directory'/root/alx-system_engineering-develops/0x00-shell_basics
